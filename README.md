@@ -178,7 +178,7 @@ sns.violinplot(x="Discount",y="Ship Mode",data=df)
 ```python
 sns.violinplot(x="Quantity",y="Ship Mode",data=df)
 ```
-# OUPUT
+# OUTPUT
 ![image](./s1.png)
 ![image](./s2.png)
 ![image](./s3.png)
